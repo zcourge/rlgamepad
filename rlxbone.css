@@ -1,3 +1,6 @@
-.controller .edit {
+.controller.edit {
+    background: url(https://i.imgur.com/qk6y8rM.png);
+}
+.edit .controller.xbox {
     background: url(https://i.imgur.com/qk6y8rM.png);
 }
