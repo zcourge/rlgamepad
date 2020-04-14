@@ -1,5 +1,3 @@
-.controller.edit {
-    background: url("https://i.imgur.com/qk6y8rM.png");
-    height: 544px;
-    width: 668px;
+.controller .edit {
+    background: url(https://i.imgur.com/qk6y8rM.png);
 }
